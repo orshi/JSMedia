@@ -1,0 +1,1 @@
+﻿package  {	public class CompanyProfilePage extends SimplePage {		public function CompanyProfilePage() {			addBacktoHomeEvent(bg);			addBtnOpenPageEvent(honorBtn, "HonorPage");						// Below *button to page event* should be modified later.			// Here just show the basic appearance.			addBtnOpenPageEvent(profileBtn, "HonorPage");		}	}	}

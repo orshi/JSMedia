@@ -1,0 +1,1 @@
+﻿package  {	public class TVServicePage extends SimplePage {		public function TVServicePage() {			addBacktoHomeEvent(bg);						// Below *button to page event* should be modified later.			// Here just show the basic appearance.			addBtnOpenPageEvent(liveVideoIntroBtn, "HonorPage");		}	}}

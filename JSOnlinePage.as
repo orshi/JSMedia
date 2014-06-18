@@ -1,0 +1,1 @@
+﻿package  {	public class JSOnlinePage extends SimplePage {		public function JSOnlinePage() {			addBacktoHomeEvent(bg);			addBtnOpenPageEvent(odBtn, "TVServicePage");			addBtnOpenPageEvent(tvBtn, "HonorPage");		}	}}
